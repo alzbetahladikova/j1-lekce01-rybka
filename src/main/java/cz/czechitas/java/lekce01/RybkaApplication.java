@@ -32,10 +32,7 @@ public class RybkaApplication extends CzechitasGameApplication {
         rybka = new Rybka(100, 100);
         //zde dopsat úkol
        rybka.plavatVpravo();
-       rybka.plavatVpravo();
-       rybka.plavatVpravo();
-       rybka.plavatVpravo();
-       rybka.plavatVpravo();
+
 
 
     }
